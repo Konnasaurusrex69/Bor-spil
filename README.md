@@ -1,8 +1,8 @@
 # Bor-spil
 Lokaverkefni í VESM
 
-Hákon og Tómas
-Rails and Tails er "western" útgáfa á Snakes and Ladders, (wip)
+<p> Hákon og Tómas </p>
+<p> Rails and Tails er "western" útgáfa á Snakes and Ladders, (wip) </p>
 
 (myndband)
 (mynd)
