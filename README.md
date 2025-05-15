@@ -8,4 +8,4 @@ Lokaverkefni í VESM
 (mynd)
 (mynd 2)
 
-<img src="https://files.catbox.moe/mgm43c.svg" width=50% height=auto>
+<img src="https://files.catbox.moe/cbus8k.jpg" width=50% height=auto>
