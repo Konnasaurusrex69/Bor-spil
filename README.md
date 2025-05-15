@@ -1,2 +1,2 @@
-# Bor-spil
+# Borðspil
 Lokaverkefni í VESM
