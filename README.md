@@ -2,7 +2,7 @@
 Lokaverkefni í VESM
 
 <p> Hákon og Tómas </p>
-<p> Rails and Tails er "western" útgáfa á Snakes and Ladders, (wip) </p>
+<p> Rails and Tails er "western" útgáfa af Snakes and Ladders, hugmyndin er sú sama; kastaðu teningnum (skeifunni) til að komast áfram og sá sem kemst fyrstur á síðasta reitinn vinnur! Teinar færa þig upp og halar (snáka) færa þig niður, og það eru ýmsar aðrar hindranir sem þarf að yfirstíga. </p>
 
 (myndband)
 (mynd)
