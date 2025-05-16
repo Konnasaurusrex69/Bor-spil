@@ -4,6 +4,8 @@ Lokaverkefni í VESM — Hákon og Tómas
 
 <img src="https://files.catbox.moe/cbus8k.jpg" width=50% height=auto>
 
+Hér er mynd og myndband af spilinu sett saman:
+
 <img src="https://files.catbox.moe/zx3m33.jpg" width=50% height=auto>
 
 https://github.com/user-attachments/assets/f4a2acb4-9cb4-4681-b9f7-1d8f127fa901
